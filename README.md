@@ -3,6 +3,13 @@
 ## Link to GitHub Repository
 https://github.com/ella-jones/T1A3_TerminalApp.git
 
+## Style Guide
+I will be following the Pep8 Python Style Guide while coding my application. 
+
+### Reference for Style Guide:
+Van Rossum, G., Warsaw, B., & Coghlan, N. 2001, *PEP 8 - Style guide for Python code*, PEPS Python, accessed 1 May 2023, https://peps.python.org/pep-0008/. 
+
+
 ## Features
 
 ### Add chore
@@ -30,11 +37,10 @@ This will allow the user to select a specific day of the week and view all chore
 ### View non-completed chores
 This will allows the user to view all chores that have not been marked as complete, without having to sort through the entire chores list.
 
-
 ### Exit
 This will allow the user to exit from the application.
 
 ## Implementation Plan
 I have used a Trello board to manage my implementation plan. See screenshots below.
 
-
+## Help Documentation
